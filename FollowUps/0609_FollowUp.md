@@ -1,7 +1,19 @@
-Hi Anya and team,
+# 0610 - Follow-up and Update
+
+Hi and good morning all,
+
+Here is an follow-up / update to the calculator!  Feedback and questions welcomed!
+
+Regards,
+
+Kurt
 
 #### Question 1: 
-	"Prevent any maintenance doses > 4500 mg/day from showing as options on the maintenance dose table?"
+	"Can we prevent any maintenance doses > 4500 mg/day 
+	from showing as options on the maintenance dose table?"
+
+### Background
+![](Images/45threshold.png)
 
 - For the doses greater than 4500 mg/day, I had been thinking about ways to cue the user that 4.5g/day was a threshold.  It looks like there are 6 possible dosing regimens that could be selected that pass that threshold.
 
@@ -16,15 +28,19 @@ Thoughts
 ![](Images/doses45g1.png)
 
 #### Question 2:
-	"Add Skin and soft tissue infections (ABSSSI), Enterococcal infections, Staphylococcus Epidermidis infections, 
-	surgical prophylaxis to the exclusions on the landing page?"
+	Question 2: "Add Skin and soft tissue infections (ABSSSI), surgical prophylaxis 
+	Enterococcal infections, Staphylococcus Epidermidis infections, 
+	to the exclusions on the landing page?"
 
 - Updated Landing Page
+
+- Worried about how it looks and also added categories to the right.  Worried about language used.
 
 ![](Images/landingpage.png)
 
 #### Question 3:
-	"I wanted to clarify, we should the user hit “save”.  Will the calculator intermittently save the information without “saving”?"
+	Question 3: "I wanted to clarify, we should the user hit “save”.  
+	Will the calculator intermittently save the information without “saving”?"
 
 1. Each time the pharmacist presses the "Next" button, information about the patient is written into the database.
 2. The "Save" button manually saves the patient information.
