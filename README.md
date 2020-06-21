@@ -19,16 +19,19 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 
 ## Patient Example 1: **"New Consult"**
 1. [Patient Information](#ptinfo)
+	- [**Steps**](#ptinfosteps)
 	** Comments: **
-	1. ***`MRN`*** used / needed to save patient information to database
-	2. 
+		1. ***`MRN`*** used / needed to save patient information to database
+		2. No info on first page technically required to proceed
+		3. ***Anthropomorphics***: `TBW/IBW` and `BMI`
+2. [Kidney Function](#kidney)
 
 ### 1. Patient Information <a name=ptinfo></a>
 * 41 yo female with MRSA Osteomyelitis
 * Wt: 88.9 kg
 * Ht: 157 cm
 
-##### Steps
+##### Steps <a name=ptinfosteps></a>
 
 1. Choose the New Consult button
 2. Enter the patient information into the calculator and choose Next. Choosing Next will save the information automatically.
@@ -43,10 +46,16 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 ![](Images/ptinfo11.png)
 ![](Images/ptinfo2.png)
 
-#### BMI
+#### ***Anthropomorphics***: `TBW/IBW` and `BMI`
+* If `Age`, `Height`, `Weight` and `Gender` are inputted, `TBW/IBW` and `BMI` are calculated and displayed in patient information ribbon.
 
 ![](Images/ptinfo_bmi.png)
 
-* If `Age`, `Height`, `Weight` and `Gender` are inputted, `TBW/IBW` and `BMI` are calculated and displayed in patient information ribbon.
+### 2. Kidney Function <a name=kidney></a>
+* SCr: 0.5 (stable)
+* no concurrent nephrotoxic drugs
+* no amputations
+
+
 
 	
