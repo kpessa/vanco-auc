@@ -5,6 +5,7 @@
 # Table of Contents
 * [About The AUC24/MIC Calculator](#about) 
 * [Pharmacist Vancomycin AUC24/MIC Workshop](#workshop)
+
 - [Patient Example 1: **"New Consult"**](#ex1)
 	1. [Patient Information](#ptinfo)
 	2. [Kidney Function](#kidney)
