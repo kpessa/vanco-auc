@@ -17,3 +17,25 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 	b. 2 Levels with first dose
 	c. 2 Levels at steady state
 
+## Patient Example 1: **"New Consult"**
+1. [Patient Information](#ptinfo)
+
+### 1. Patient Information <a name=ptinfo />
+* 41 yo female with MRSA Osteomyelitis
+* Wt: 88.9 kg
+* Ht: 157 cm
+
+##### Steps
+
+1. Choose the New Consult button
+2. Enter the patient information into the calculator and choose Next. Choosing Next will save the information automatically.
+3. Select save to add/update information in database 
+4. Entering the medical record number will allow patient to be identified during future admissions in the database
+5. Previously added patients can be identified and loaded in the “Load Patient Information” section
+
+![](Images/ptinfo0.png)
+
+**Comments:**
+![](Images/ptinfo11.png)
+![](Images/ptinfo2.png)
+	
