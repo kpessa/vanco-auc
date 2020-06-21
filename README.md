@@ -83,7 +83,7 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 	* If entering `SCr`, then press `Next` button
 
 
-### 3. Loading Dose (LD) <a name=ld></a> <font size ="2">***[&#129093; <ins>back to table of contents</ins>](#toc)***<font>
+### 3. Loading Dose (LD) <a name=ld></a> <sub>**[&#129093; <ins>back to table of contents</ins>](#toc)**</sub>
 
 ### 4. Volume of Distribution (Vd) <a name=vd></a> **[back to table of contents](#toc)**
 ### 5. Vancomycin Clearance (CLVanco) <a name=clvanco></a> **[back to table of contents](#toc)**
