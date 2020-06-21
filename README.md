@@ -2,7 +2,7 @@
 
 ![](Images/LandingPage0.png)
 
-# Table of Contents
+# Table of Contents <a name="toc"></a>
 * [About The AUC24/MIC Calculator](#about) 
 * [Pharmacist Vancomycin AUC24/MIC Workshop](#workshop)
 
@@ -38,7 +38,7 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 		4. ***Conversions***: for `Height` and `Weight`
 2. [Kidney Function](#kidney)
 
-### 1. Patient Information <a name=ptinfo></a>
+### 1. Patient Information <a name=ptinfo></a> **[back to table of contents](#toc)**
 * 41 yo female with MRSA Osteomyelitis
 * Wt: 88.9 kg
 * Ht: 157 cm
@@ -73,7 +73,7 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 
 ![](Images/ptinfo4.png)
 
-### 2. Kidney Function <a name=kidney></a>
+### 2. Kidney Function <a name=kidney></a> **[back to table of contents](#toc)**
 * SCr: 0.5 (stable)
 * no concurrent nephrotoxic drugs
 * no amputations
@@ -83,10 +83,11 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 	* If entering `SCr`, then press `Next` button
 
 
-### 3. Loading Dose (LD) <a name=ld></a>
-### 4. Volume of Distribution (Vd) <a name=vd></a>
-### 5. Vancomycin Clearance (CLVanco) <a name=clvanco></a>
-### 6. Maintenance Dose Table (MD) <a name=md></a>
-### 7. Levels / Labs <a name=labs></a>
-### 8. Progress Note <a name=note></a>
-### 9. Monitoring Form <a name=form></a>
+### 3. Loading Dose (LD) <a name=ld></a> <font size ="2">***[&#129093; <ins>back to table of contents</ins>](#toc)***<font>
+
+### 4. Volume of Distribution (Vd) <a name=vd></a> **[back to table of contents](#toc)**
+### 5. Vancomycin Clearance (CLVanco) <a name=clvanco></a> **[back to table of contents](#toc)**
+### 6. Maintenance Dose Table (MD) <a name=md></a> **[back to table of contents](#toc)**
+### 7. Levels / Labs <a name=labs></a> **[back to table of contents](#toc)**
+### 8. Progress Note <a name=note></a> **[back to table of contents](#toc)**
+### 9. Monitoring Form <a name=form></a> **[back to table of contents](#toc)**
