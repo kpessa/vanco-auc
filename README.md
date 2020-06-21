@@ -1,6 +1,6 @@
 # Vancomycin AUC Calculator
 
-![](Images/LandingPage.png)
+![](Images/LandingPage0.png)
 
 ## Table of Contents
 1. [About The AUC24/MIC Calculator](#about) 
