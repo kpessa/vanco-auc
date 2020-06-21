@@ -1,11 +1,11 @@
 --------------
-# Vancomycin AUC Calculator
+# <p style="text-align:center">Vancomycin AUC Calculator</p>
 --------------
 
-![](Images/LandingPage0.png)
+![](Images/LandingPage00.png)
 
 --------------
-# Table of Contents <a name="toc"></a>
+# <p style="text-align:center">Table of Contents <a name="toc"></a></p>
 
 * [About The AUC24/MIC Calculator](#about) 
 * [Pharmacist Vancomycin AUC24/MIC Workshop](#workshop)
@@ -24,14 +24,14 @@
 **[&#9650; <ins>back to table of contents</ins>](#toc)**
 
 --------------
-#### About The AUC24/MIC Calculator <a name="about"></a>
+#### <p style="text-align:center">About The AUC24/MIC Calculator <a name="about"></a></p>
 
 This vancomycin calculator uses a variety of published pharmacokinetic equations and principles to estimate an initial vancomycin dosing regimen for a patient based on population estimates. Subsequently, a regimen may be calculated based two vancomycin levels for severe MRSA infections. The AUC24/MIC is calculated using the trapezoidal method.
 
 **[&#9650; <ins>back to table of contents</ins>](#toc)**
 
 --------------
-# Pharmacist Vancomycin AUC<sub>24</sub>/MIC Workshop <a name="workshop"></a>
+### <p style="text-align:center">Pharmacist Vancomycin AUC<sub>24</sub>/MIC Workshop <a name="workshop"></a></p>
 1. Patient example
 2. Patient problems (2)
 	- Empiric Dosing
@@ -41,7 +41,7 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 **[&#9650; <ins>back to table of contents</ins>](#toc)**
 
 --------------
-## Patient Example 1: **"New Consult"** <a name="ex1"></a>
+### <p style="text-align:center">Patient Example 1: **"New Consult"** Summary<a name="ex1"></a></p>
 1. [Patient Information](#ptinfo)
 	- [**Steps**](#ptinfosteps)
 	- [** Comments: **](#ptinfocomments) 
@@ -50,8 +50,19 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 		3. ***Anthropomorphics***: `TBW/IBW` and `BMI`
 		4. ***Conversions***: for `Height` and `Weight`
 2. [Kidney Function](#kidney)
+3. [Loading Dose (LD)](#ld)
+4. [Volume of Distribution (Vd)](#vd)
+5. [Vancomycin Clearance (CLVanco)](#clvanco)
+6. [Maintenance Dose Table (MD)](#md) 
+7. [Levels / Labs](#labs)
+8. [Progress Note](#note)
+9. [Monitoring Form](#form)
+
+
 
 **[&#9650; <ins>back to table of contents</ins>](#toc)**
+
+--------------
 ### 1. Patient Information <a name=ptinfo></a>
 * 41 yo female with MRSA Osteomyelitis
 * Wt: 88.9 kg
