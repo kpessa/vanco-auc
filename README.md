@@ -3,15 +3,24 @@
 ![](Images/LandingPage0.png)
 
 # Table of Contents
-1. [About The AUC24/MIC Calculator](#about) 
-2. [Pharmacist Vancomycin AUC24/MIC Workshop](#workshop)
-3. [Patient Example 1: **"New Consult"**](#ex1)
+* [About The AUC24/MIC Calculator](#about) 
+* [Pharmacist Vancomycin AUC24/MIC Workshop](#workshop)
+1. [Patient Example 1: **"New Consult"**](#ex1)
+	1. [Patient Information](#ptinfo)
+	2. [Kidney Function](#kidney)
+	3. [Loading Dose (LD)](#ld)
+	4. [Volume of Distribution (Vd)](#vd)
+	5. [Vancomycin Clearance (CLVanco)](#clvanco)
+	6. [Maintenance Dose Table (MD)](#md)
+	7. [Levels / Labs](#labs)
+	8. [Progress Note](#note)
+	9. [Monitoring Form](#form)
 
 #### About The AUC24/MIC Calculator <a name="about"></a>
 
 This vancomycin calculator uses a variety of published pharmacokinetic equations and principles to estimate an initial vancomycin dosing regimen for a patient based on population estimates. Subsequently, a regimen may be calculated based two vancomycin levels for severe MRSA infections. The AUC24/MIC is calculated using the trapezoidal method.
 
-# Pharmacist Vancomycin AUC24/MIC Workshop <a name="workshop"></a>
+# Pharmacist Vancomycin AUC<sub>24</sub>/MIC Workshop <a name="workshop"></a>
 1. Patient example
 2. Patient problems (2)
 	- Empiric Dosing
@@ -73,4 +82,10 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 	* If entering `SCr`, then press `Next` button
 
 
-	
+### 3. Loading Dose (LD) <a name=ld></a>
+### 4. Volume of Distribution (Vd) <a name=vd></a>
+### 5. Vancomycin Clearance (CLVanco) <a name=clvanco></a>
+### 6. Maintenance Dose Table (MD) <a name=md></a>
+### 7. Levels / Labs <a name=labs></a>
+### 8. Progress Note <a name=note></a>
+### 9. Monitoring Form <a name=form></a>
