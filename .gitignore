@@ -6,6 +6,9 @@ __pycache__/
 # ignore temporary files
 ~$*
 
+# ignore database file
+db.accdb
+
 # C extensions
 *.so
 
