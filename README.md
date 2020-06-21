@@ -82,12 +82,18 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 1. Manually-enter CrCl or enter `SCr`
 	* If entering `SCr`, then press `Next` button
 
-
-### 3. Loading Dose (LD) <a name=ld></a> <sub>**[&#129093; <ins>back to table of contents</ins>](#toc)**</sub>
-
+**[&#129093; <ins>back to table of contents</ins>](#toc)**
+### 3. Loading Dose (LD) <a name=ld></a> 
+**[&#129093; <ins>back to table of contents</ins>](#toc)**
 ### 4. Volume of Distribution (Vd) <a name=vd></a> **[back to table of contents](#toc)**
+**[&#129093; <ins>back to table of contents</ins>](#toc)**
 ### 5. Vancomycin Clearance (CLVanco) <a name=clvanco></a> **[back to table of contents](#toc)**
+**[&#129093; <ins>back to table of contents</ins>](#toc)**
 ### 6. Maintenance Dose Table (MD) <a name=md></a> **[back to table of contents](#toc)**
+**[&#129093; <ins>back to table of contents</ins>](#toc)**
 ### 7. Levels / Labs <a name=labs></a> **[back to table of contents](#toc)**
+**[&#129093; <ins>back to table of contents</ins>](#toc)**
 ### 8. Progress Note <a name=note></a> **[back to table of contents](#toc)**
+**[&#129093; <ins>back to table of contents</ins>](#toc)**
 ### 9. Monitoring Form <a name=form></a> **[back to table of contents](#toc)**
+**[&#129093; <ins>back to table of contents</ins>](#toc)**
