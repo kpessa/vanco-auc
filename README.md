@@ -1,8 +1,12 @@
+--------------
 # Vancomycin AUC Calculator
+--------------
 
 ![](Images/LandingPage0.png)
 
+--------------
 # Table of Contents <a name="toc"></a>
+
 * [About The AUC24/MIC Calculator](#about) 
 * [Pharmacist Vancomycin AUC24/MIC Workshop](#workshop)
 
@@ -17,11 +21,16 @@
 	8. [Progress Note](#note)
 	9. [Monitoring Form](#form)
 
+**[&#9650; <ins>back to table of contents</ins>](#toc)**
+
+--------------
 #### About The AUC24/MIC Calculator <a name="about"></a>
 
 This vancomycin calculator uses a variety of published pharmacokinetic equations and principles to estimate an initial vancomycin dosing regimen for a patient based on population estimates. Subsequently, a regimen may be calculated based two vancomycin levels for severe MRSA infections. The AUC24/MIC is calculated using the trapezoidal method.
 
-**[&#129093; <ins>back to table of contents</ins>](#toc)**
+**[&#9650; <ins>back to table of contents</ins>](#toc)**
+
+--------------
 # Pharmacist Vancomycin AUC<sub>24</sub>/MIC Workshop <a name="workshop"></a>
 1. Patient example
 2. Patient problems (2)
@@ -29,7 +38,9 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 	- 2 Levels with first dose
 	- 2 Levels at steady state
 
-**[&#129093; <ins>back to table of contents</ins>](#toc)**
+**[&#9650; <ins>back to table of contents</ins>](#toc)**
+
+--------------
 ## Patient Example 1: **"New Consult"** <a name="ex1"></a>
 1. [Patient Information](#ptinfo)
 	- [**Steps**](#ptinfosteps)
@@ -40,7 +51,7 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 		4. ***Conversions***: for `Height` and `Weight`
 2. [Kidney Function](#kidney)
 
-**[&#129093; <ins>back to table of contents</ins>](#toc)**
+**[&#9650; <ins>back to table of contents</ins>](#toc)**
 ### 1. Patient Information <a name=ptinfo></a>
 * 41 yo female with MRSA Osteomyelitis
 * Wt: 88.9 kg
@@ -56,10 +67,14 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 
 ![](Images/ptinfo0.png)
 
+**[&#9650; <ins>back to patient information</ins>](#ptinfo)**
+
 ##### **Comments:** <a name=ptinfocomments></a>
  
 ![](Images/ptinfo11.png)
 ![](Images/ptinfo2.png)
+
+**[&#9650; <ins>back to patient information</ins>](#ptinfo)**
 
 #### ***Anthropomorphics***: `TBW/IBW` and `BMI`
 * If `Age`, `Height`, `Weight` and `Gender` are inputted, `TBW/IBW` and `BMI` are calculated and displayed in patient information ribbon.
@@ -76,7 +91,8 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 
 ![](Images/ptinfo4.png)
 
-**[&#129093; <ins>back to table of contents</ins>](#toc)**
+**[&#9650; <ins>back to patient information</ins>](#ptinfo)**
+**[&#9650; <ins>back to table of contents</ins>](#toc)**
 ### 2. Kidney Function <a name=kidney></a>
 * SCr: 0.5 (stable)
 * no concurrent nephrotoxic drugs
@@ -86,18 +102,18 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 1. Manually-enter CrCl or enter `SCr`
 	* If entering `SCr`, then press `Next` button
 
-**[&#129093; <ins>back to table of contents</ins>](#toc)**
+**[&#9650; <ins>back to table of contents</ins>](#toc)**
 ### 3. Loading Dose (LD) <a name=ld></a>
-**[&#129093; <ins>back to table of contents</ins>](#toc)**
+**[&#9650; <ins>back to table of contents</ins>](#toc)**
 ### 4. Volume of Distribution (Vd) <a name=vd></a>
-**[&#129093; <ins>back to table of contents</ins>](#toc)**
+**[&#9650; <ins>back to table of contents</ins>](#toc)**
 ### 5. Vancomycin Clearance (CLVanco) <a name=clvanco></a>
-**[&#129093; <ins>back to table of contents</ins>](#toc)**
+**[&#9650; <ins>back to table of contents</ins>](#toc)**
 ### 6. Maintenance Dose Table (MD) <a name=md></a> 
-**[&#129093; <ins>back to table of contents</ins>](#toc)**
+**[&#9650; <ins>back to table of contents</ins>](#toc)**
 ### 7. Levels / Labs <a name=labs></a>
-**[&#129093; <ins>back to table of contents</ins>](#toc)**
+**[&#9650; <ins>back to table of contents</ins>](#toc)**
 ### 8. Progress Note <a name=note></a>
-**[&#129093; <ins>back to table of contents</ins>](#toc)**
+**[&#9650; <ins>back to table of contents</ins>](#toc)**
 ### 9. Monitoring Form <a name=form></a>
-**[&#129093; <ins>back to table of contents</ins>](#toc)**
+**[&#9650; <ins>back to table of contents</ins>](#toc)**
