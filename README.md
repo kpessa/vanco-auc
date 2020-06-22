@@ -83,6 +83,8 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 <details>
 <summary>1. MRN used / needed to save patient information to database <a name=ptinfocomments></a></summary>
  
+#### **`MRN`** used / needed to save patient information to database
+
 ![](Images/ptinfo11.png)
 
 </details>
@@ -104,6 +106,8 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 
 </details>
 
+<details><summary>4. Conversions: for Height and Weight
+
 #### Conversions: for `Height` and `Weight`
 
 - For **`Height`**, can either input as ***`cm`s*** or ***`ft/in`s***
@@ -113,9 +117,6 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 - For **`Weight`**, can either input as ***`kgs`*** or ***`lbs`***
 
 ![](Images/ptinfo4.png)
-
-**[&#9650; <ins>back to example summary</ins>](#ex1)**
-**[&#9650; <ins>back to table of contents</ins>](#toc)**
 
 </details>
 
