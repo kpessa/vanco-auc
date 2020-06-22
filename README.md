@@ -3,6 +3,8 @@
 
 ![](Images/LandingPage00.png)
 
+> Most current excel file: &#9658; <ins>**[VancomycinCalculator.xlsm](https://github.com/kpessa/vanco-auc/blob/master/VancomycinCalculator.xlsm)**</ins> &#9668;
+
 --------------
 # <p style="text-align:center">Table of Contents <a name="toc"></a></p>
 
@@ -77,8 +79,7 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 
 ![](Images/ptinfo0.png)
 
-[&#9650; <ins>back to example summary</ins>](#ex1) 
-[&#9668; previous section](#ex1) [&#9658; next section](#ptinfocomments)
+[&#8592; previous section](#ex1) | [&#9650; back to example summary](#ex1) | [next section &#8594;](#ptinfocomments)
 
 ##### **Comments:** <a name=ptinfocomments></a>
  
