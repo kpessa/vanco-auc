@@ -80,9 +80,16 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 
 [&#8592; previous section](#ex1) | [&#9650; back to example summary](#ex1) | [next section &#8594;](#ptinfocomments)
 
-<details><summary> **"Click to see more about patient information"** <a name=ptinfocomments></a></summary>
+<details><summary> 
+
+***`MRN`*** used / needed to save patient information to database <a name=ptinfocomments></a>
+
+</summary>
  
 ![](Images/ptinfo11.png)
+
+</details>
+
 ![](Images/ptinfo2.png)
 
 **[&#9650; <ins>back to example summary</ins>](#ex1)**
