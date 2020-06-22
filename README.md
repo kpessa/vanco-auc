@@ -4,7 +4,9 @@
 ![](Images/LandingPage00.png)
 
 > Most current excel file: &#9658; <ins>**[VancomycinCalculator.xlsm](https://github.com/kpessa/vanco-auc/raw/master/VancomycinCalculator.xlsm)**</ins> &#9668;
+
 > Most current word doc: &#9658; <ins>**[AUC_MIC Vancomycin Dosing Update20200617.docx](https://github.com/kpessa/vanco-auc/raw/master/Vancomycin%20Dosing%20Handout/AUC_MIC%20Vancomycin%20Dosing%20Update20200617.docx)**</ins> &#9668;
+
 > Most current powerpoint ppt: &#9658; <ins>**[Vancomycin Bulletins MD RN LAB.pptx](https://github.com/kpessa/vanco-auc/raw/master/Vancomycin%20Dosing%20Handout/Vancomycin%20Bulletins%20MD%20RN%20LAB.pptx)**</ins> &#9668;
 
 --------------
