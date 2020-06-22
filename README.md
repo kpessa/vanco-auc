@@ -106,7 +106,7 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 
 </details>
 
-<details><summary>4. Conversions: for Height and Weight
+<details><summary>4. Conversions: for Height and Weight</summary>
 
 #### Conversions: for `Height` and `Weight`
 
