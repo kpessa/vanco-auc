@@ -1,6 +1,5 @@
 --------------
 # <p style="text-align:center">Vancomycin AUC Calculator</p>
---------------
 
 ![](Images/LandingPage00.png)
 
@@ -78,14 +77,14 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 
 ![](Images/ptinfo0.png)
 
-**[&#9650; <ins>back to patient information</ins>](#ptinfo)**
+**[&#9650; <ins>back to example summary</ins>](#ex1)**
 
 ##### **Comments:** <a name=ptinfocomments></a>
  
 ![](Images/ptinfo11.png)
 ![](Images/ptinfo2.png)
 
-**[&#9650; <ins>back to patient information</ins>](#ptinfo)**
+**[&#9650; <ins>back to example summary</ins>](#ex1)**
 
 #### ***Anthropomorphics***: `TBW/IBW` and `BMI`
 * If `Age`, `Height`, `Weight` and `Gender` are inputted, `TBW/IBW` and `BMI` are calculated and displayed in patient information ribbon.
@@ -102,7 +101,7 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 
 ![](Images/ptinfo4.png)
 
-**[&#9650; <ins>back to patient information</ins>](#ptinfo)**
+**[&#9650; <ins>back to example summary</ins>](#ex1)**
 **[&#9650; <ins>back to table of contents</ins>](#toc)**
 ### 2. Kidney Function <a name=kidney></a>
 * SCr: 0.5 (stable)
@@ -112,6 +111,11 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 ##### Steps <a name=kidneysteps></a>
 1. Manually-enter CrCl or enter `SCr`
 	* If entering `SCr`, then press `Next` button
+2. If patient is muscle wasted or cachectic, the `SCr` can be rounded by selecting “Yes”
+3. If patient is obese (>120% IBW) the `AdjBW` can be used to calculate CrCl by selecting “Yes”
+4. Select “Accept ### ml/min as CrCl” 
+
+![](Images/kidney0.png)
 
 **[&#9650; <ins>back to table of contents</ins>](#toc)**
 ### 3. Loading Dose (LD) <a name=ld></a>
