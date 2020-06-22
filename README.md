@@ -22,11 +22,9 @@
 	8. [Progress Note](#note)
 	9. [Monitoring Form](#form)
 
-[&#8592; previous section](#header) | [&#9650; back to table of contents](#ex1) | [next section &#8594;](#about)
-
-**[&#9650; <ins>back to table of contents</ins>](#toc)**
-
---------------
+---
+<p style="text-align:center">[&#8592; previous section](#header) | [&#9650; back to table of contents](#ex1) | [next section &#8594;](#about)<p>
+---
 #### <p style="text-align:center">About The AUC24/MIC Calculator <a name="about"></a></p>
 
 This vancomycin calculator uses a variety of published pharmacokinetic equations and principles to estimate an initial vancomycin dosing regimen for a patient based on population estimates. Subsequently, a regimen may be calculated based two vancomycin levels for severe MRSA infections. The AUC24/MIC is calculated using the trapezoidal method.
