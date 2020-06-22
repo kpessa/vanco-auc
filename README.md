@@ -115,7 +115,7 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 3. If patient is obese (>120% IBW) the `AdjBW` can be used to calculate CrCl by selecting “Yes”
 4. Select “Accept ### ml/min as CrCl” 
 
-![](Images/kidney0.png)
+![](Images/kidney000.png)
 
 **[&#9650; <ins>back to table of contents</ins>](#toc)**
 ### 3. Loading Dose (LD) <a name=ld></a>
