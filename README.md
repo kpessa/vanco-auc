@@ -81,21 +81,21 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 [&#8592; previous section](#ex1) | [&#9650; back to example summary](#ex1) | [next section &#8594;](#ptinfocomments)
 
 <details>
-<summary>  ***`MRN`*** used / needed to save patient information to database <a name=ptinfocomments></a></summary>
+<summary>1. MRN used / needed to save patient information to database <a name=ptinfocomments></a></summary>
  
 ![](Images/ptinfo11.png)
 
 </details>
 
 <details>
-<summary> No info on first page technically required to proceed </summary>
+<summary>2. No info on first page technically required to proceed </summary>
 
 ![](Images/ptinfo2.png)
 
 </details>
 
 <details>
-<summary> ***Anthropomorphics***: `TBW/IBW` and `BMI` </summary>
+<summary>3. Anthropomorphics: TBW/IBW and BMI </summary>
 
 #### ***Anthropomorphics***: `TBW/IBW` and `BMI`
 * If `Age`, `Height`, `Weight` and `Gender` are inputted, `TBW/IBW` and `BMI` are calculated and displayed in patient information ribbon.
