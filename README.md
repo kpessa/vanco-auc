@@ -4,6 +4,8 @@
 ![](Images/LandingPage00.png)
 
 > Most current excel file: &#9658; <ins>**[VancomycinCalculator.xlsm](https://github.com/kpessa/vanco-auc/raw/master/VancomycinCalculator.xlsm)**</ins> &#9668;
+> Most current word doc: &#9658; <ins>**[AUC_MIC Vancomycin Dosing Update20200617.docx](https://github.com/kpessa/vanco-auc/raw/master/Vancomycin%20Dosing%20Handout/AUC_MIC%20Vancomycin%20Dosing%20Update20200617.docx)**</ins> &#9668;
+> Most current powerpoint ppt: &#9658; <ins>**[Vancomycin Bulletins MD RN LAB.pptx](https://github.com/kpessa/vanco-auc/raw/master/Vancomycin%20Dosing%20Handout/Vancomycin%20Bulletins%20MD%20RN%20LAB.pptx)**</ins> &#9668;
 
 --------------
 # <p style="text-align:center">Table of Contents <a name="toc"></a></p>
@@ -40,7 +42,7 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 	- 2 Levels with first dose
 	- 2 Levels at steady state
 
-[&#8592; previous section](#workshop) | [&#9650; back to table of contents](#toc) | [next section &#8594;](#ex1)
+[&#8592; previous section](#about) | [&#9650; back to table of contents](#toc) | [next section &#8594;](#ex1)
 
 --------------
 ### <p style="text-align:center">Patient Example 1: **"New Consult"** Summary<a name="ex1"></a></p>
