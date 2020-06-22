@@ -1,5 +1,5 @@
 --------------
-# <p style="text-align:center">Vancomycin AUC Calculator</p>
+# <p style="text-align:center">Vancomycin AUC Calculator</p> <a name="header"></a>
 
 ![](Images/LandingPage00.png)
 
@@ -21,6 +21,8 @@
 	7. [Levels / Labs](#labs)
 	8. [Progress Note](#note)
 	9. [Monitoring Form](#form)
+
+[&#8592; previous section](#header) | [&#9650; back to table of contents](#ex1) | [next section &#8594;](#about)
 
 **[&#9650; <ins>back to table of contents</ins>](#toc)**
 
