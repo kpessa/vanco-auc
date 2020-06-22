@@ -23,7 +23,9 @@
 	9. [Monitoring Form](#form)
 
 ---
+
 <p style="text-align:center">[&#8592; previous section](#header) | [&#9650; back to table of contents](#ex1) | [next section &#8594;](#about)<p>
+
 ---
 
 #### <p style="text-align:center">About The AUC24/MIC Calculator <a name="about"></a></p>
