@@ -70,11 +70,16 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 ### 1. Patient Information <a name=ptinfo></a>
 * 41 yo female with MRSA Osteomyelitis
 * Wt: 88.9 kg
-* Ht: 157 cm
+* Ht: 157 cm 
 
 ##### Steps <a name=ptinfosteps></a>
 
-1. Choose the New Consult button
+<details><summary>1. Choose the New Consult button</summary>
+
+![](Images/selectnewconsult.png)
+
+</details>
+
 2. Enter the patient information into the calculator and choose Next. Choosing Next will save the information automatically.
 3. Select save to add/update information in database 
 4. Entering the medical record number will allow patient to be identified during future admissions in the database
