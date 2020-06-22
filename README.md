@@ -1,139 +1,33 @@
---------------
-# <p style="text-align:center">Vancomycin AUC Calculator</p> <a name="header"></a>
-
-![](Images/LandingPage00.png)
-
-> Most current excel file: &#9658; <ins>**[VancomycinCalculator.xlsm](https://github.com/kpessa/vanco-auc/raw/master/VancomycinCalculator.xlsm)**</ins> &#9668;
-
---------------
-# <p style="text-align:center">Table of Contents <a name="toc"></a></p>
-
-* [About The AUC24/MIC Calculator](#about) 
-* [Pharmacist Vancomycin AUC24/MIC Workshop](#workshop)
-
-- [Patient Example 1: **"New Consult"**](#ex1)
-	1. [Patient Information](#ptinfo)
-	2. [Kidney Function](#kidney)
-	3. [Loading Dose (LD)](#ld)
-	4. [Volume of Distribution (Vd)](#vd)
-	5. [Vancomycin Clearance (CLVanco)](#clvanco)
-	6. [Maintenance Dose Table (MD)](#md)
-	7. [Levels / Labs](#labs)
-	8. [Progress Note](#note)
-	9. [Monitoring Form](#form)
-
----
-
-<p style="text-align:center">[&#8592; previous section](#header) | [&#9650; back to table of contents](#ex1) | [next section &#8594;](#about)<p>
-
----
-
-#### <p style="text-align:center">About The AUC24/MIC Calculator <a name="about"></a></p>
-
-This vancomycin calculator uses a variety of published pharmacokinetic equations and principles to estimate an initial vancomycin dosing regimen for a patient based on population estimates. Subsequently, a regimen may be calculated based two vancomycin levels for severe MRSA infections. The AUC24/MIC is calculated using the trapezoidal method.
-
-**[&#9650; <ins>back to table of contents</ins>](#toc)**
-
---------------
-### <p style="text-align:center">Pharmacist Vancomycin AUC<sub>24</sub>/MIC Workshop <a name="workshop"></a></p>
-1. Patient example
-2. Patient problems (2)
-	- Empiric Dosing
-	- 2 Levels with first dose
-	- 2 Levels at steady state
-
-**[&#9650; <ins>back to table of contents</ins>](#toc)**
-
---------------
-### <p style="text-align:center">Patient Example 1: **"New Consult"** Summary<a name="ex1"></a></p>
-1. [Patient Information](#ptinfo)
-	- [**Steps**](#ptinfosteps)
-	- [** Comments: **](#ptinfocomments) 
-		1. ***`MRN`*** used / needed to save patient information to database
-		2. No info on first page technically required to proceed
-		3. ***Anthropomorphics***: `TBW/IBW` and `BMI`
-		4. ***Conversions***: for `Height` and `Weight`
-2. [Kidney Function](#kidney)
-3. [Loading Dose (LD)](#ld)
-4. [Volume of Distribution (Vd)](#vd)
-5. [Vancomycin Clearance (CLVanco)](#clvanco)
-6. [Maintenance Dose Table (MD)](#md) 
-7. [Levels / Labs](#labs)
-8. [Progress Note](#note)
-9. [Monitoring Form](#form)
 
 
+Vancomycin AUC Calculator <a name="header"></a>
 
-**[&#9650; <ins>back to table of contents</ins>](#toc)**
+ ![](Images/LandingPage00.png)
 
---------------
-### 1. Patient Information <a name=ptinfo></a>
-* 41 yo female with MRSA Osteomyelitis
-* Wt: 88.9 kg
-* Ht: 157 cm
+ \> Most current excel file: &#9658; <ins>***\*[VancomycinCalculator.xlsm](https://github.com/kpessa/vanco-auc/raw/master/VancomycinCalculator.xlsm)\****</ins> &#9668;
 
-##### Steps <a name=ptinfosteps></a>
+[TOC]
 
-1. Choose the New Consult button
-2. Enter the patient information into the calculator and choose Next. Choosing Next will save the information automatically.
-3. Select save to add/update information in database 
-4. Entering the medical record number will allow patient to be identified during future admissions in the database
-5. Previously added patients can be identified and loaded in the “Load Patient Information” section
+ \# Table of Contents <a name="toc"></a>
 
-![](Images/ptinfo0.png)
+ \* [About The AUC24/MIC Calculator](#about) 
+ \* [Pharmacist Vancomycin AUC24/MIC Workshop](#workshop)
 
-[&#8592; previous section](#ex1) | [&#9650; back to example summary](#ex1) | [next section &#8594;](#ptinfocomments)
+ \- [Patient Example 1: **"New Consult"**](#ex1)
+   \1. [Patient Information](#ptinfo)
+   \2. [Kidney Function](#kidney)
+   \3. [Loading Dose (LD)](#ld)
+   \4. [Volume of Distribution (Vd)](#vd)
+   \5. [Vancomycin Clearance (CLVanco)](#clvanco)
+   \6. [Maintenance Dose Table (MD)](#md)
+   \7. [Levels / Labs](#labs)
+   \8. [Progress Note](#note)
+   \9. [Monitoring Form](#form)
 
-##### **Comments:** <a name=ptinfocomments></a>
- 
-![](Images/ptinfo11.png)
-![](Images/ptinfo2.png)
+------
 
-**[&#9650; <ins>back to example summary</ins>](#ex1)**
+[&#8592; previous section](#header) | [&#9650; back to table of contents](#ex1) | [next section &#8594;](#about)
 
-#### ***Anthropomorphics***: `TBW/IBW` and `BMI`
-* If `Age`, `Height`, `Weight` and `Gender` are inputted, `TBW/IBW` and `BMI` are calculated and displayed in patient information ribbon.
+------
 
-![](Images/ptinfo_bmi.png)
 
-#### Conversions: for `Height` and `Weight`
-
-- For **`Height`**, can either input as ***`cm`s*** or ***`ft/in`s***
-
-![](Images/ptinfo3.png)
-
-- For **`Weight`**, can either input as ***`kgs`*** or ***`lbs`***
-
-![](Images/ptinfo4.png)
-
-**[&#9650; <ins>back to example summary</ins>](#ex1)**
-**[&#9650; <ins>back to table of contents</ins>](#toc)**
-### 2. Kidney Function <a name=kidney></a>
-* SCr: 0.5 (stable)
-* no concurrent nephrotoxic drugs
-* no amputations
-
-##### Steps <a name=kidneysteps></a>
-1. Manually-enter CrCl or enter `SCr`
-	* If entering `SCr`, then press `Next` button
-2. If patient is muscle wasted or cachectic, the `SCr` can be rounded by selecting “Yes”
-3. If patient is obese (>120% IBW) the `AdjBW` can be used to calculate CrCl by selecting “Yes”
-4. Select “Accept ### ml/min as CrCl” 
-
-![](Images/kidney000.png)
-
-**[&#9650; <ins>back to table of contents</ins>](#toc)**
-### 3. Loading Dose (LD) <a name=ld></a>
-**[&#9650; <ins>back to table of contents</ins>](#toc)**
-### 4. Volume of Distribution (Vd) <a name=vd></a>
-**[&#9650; <ins>back to table of contents</ins>](#toc)**
-### 5. Vancomycin Clearance (CLVanco) <a name=clvanco></a>
-**[&#9650; <ins>back to table of contents</ins>](#toc)**
-### 6. Maintenance Dose Table (MD) <a name=md></a> 
-**[&#9650; <ins>back to table of contents</ins>](#toc)**
-### 7. Levels / Labs <a name=labs></a>
-**[&#9650; <ins>back to table of contents</ins>](#toc)**
-### 8. Progress Note <a name=note></a>
-**[&#9650; <ins>back to table of contents</ins>](#toc)**
-### 9. Monitoring Form <a name=form></a>
-**[&#9650; <ins>back to table of contents</ins>](#toc)**
