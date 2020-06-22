@@ -3,7 +3,7 @@
 
 ![](Images/LandingPage00.png)
 
-> Most current excel file: &#9658; <ins>**[VancomycinCalculator.xlsm](https://github.com/kpessa/vanco-auc/blob/master/VancomycinCalculator.xlsm)**</ins> &#9668;
+> Most current excel file: &#9658; <ins>**[VancomycinCalculator.xlsm](https://github.com/kpessa/vanco-auc/raw/master/VancomycinCalculator.xlsm)**</ins> &#9668;
 
 --------------
 # <p style="text-align:center">Table of Contents <a name="toc"></a></p>
