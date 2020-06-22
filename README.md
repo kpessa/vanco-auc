@@ -72,13 +72,13 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 * Wt: 88.9 kg
 * Ht: 157 cm 
 
-<detail><summary>Steps</summary>
+<detail><summary>Steps</summary><blockquote>
 
 ##### Steps <a name=ptinfosteps></a>
 
-<details><summary>1. Choose the New Consult button</summary>
+<details><summary>1. Choose the New Consult button</summary><blockquote>
 
-![](Images/selectnewconsult.png)</details>
+![](Images/selectnewconsult.png)</blockquote></details>
 
 <details><summary>2. Enter the patient information into the calculator</summary>
 
@@ -86,7 +86,9 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 
 <details><summary>3. Select "Next" button. Choosing Next will save the information automatically.</summary>
 
-![](Images/ptinfonext.png)</details></detail>
+![](Images/ptinfonext.png)</details>
+
+</blockquote></detail>
 
 #### Further Reading <a name="furtherreading"></a>
 
