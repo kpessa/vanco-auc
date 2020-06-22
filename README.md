@@ -76,26 +76,15 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 
 <details><summary>1. Choose the New Consult button</summary>
 
-![](Images/selectnewconsult.png)
-
-</details>
+![](Images/selectnewconsult.png)</details>
 
 <details><summary>2. Enter the patient information into the calculator</summary>
 
-![](Images/ptinfoinput.png)
-
-</details>
+![](Images/ptinfoinput.png)</details>
 
 <details><summary>3. Select "Next" button. Choosing Next will save the information automatically.</summary>
 
-![](Images/ptinfonext.png) 
-
-</details>
- 
-4. Entering the medical record number will allow patient to be identified during future admissions in the database
-5. 
-
-![](Images/ptinfo0.png)
+![](Images/ptinfonext.png)</details> 
 
 [&#8592; previous section](#ex1) | [&#9650; back to example summary](#ex1) | [next section &#8594;](#ptinfocomments)
 
