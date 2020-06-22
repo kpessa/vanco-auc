@@ -72,6 +72,8 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 * Wt: 88.9 kg
 * Ht: 157 cm 
 
+<detail><summary>Steps</summary>
+
 ##### Steps <a name=ptinfosteps></a>
 
 <details><summary>1. Choose the New Consult button</summary>
@@ -84,9 +86,7 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 
 <details><summary>3. Select "Next" button. Choosing Next will save the information automatically.</summary>
 
-![](Images/ptinfonext.png)</details> 
-
-[&#8592; previous section](#ex1) | [&#9650; back to example summary](#ex1) | [next section &#8594;](#ptinfocomments)
+![](Images/ptinfonext.png)</details></detail>
 
 #### Further Reading <a name="furtherreading"></a>
 
@@ -124,6 +124,8 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 - For **`Weight`**, can either input as ***`kgs`*** or ***`lbs`***
 
 ![](Images/ptinfo4.png)</details>
+
+[&#8592; previous section](#ex1) | [&#9650; back to example summary](#ex1) | [next section &#8594;](#ptinfocomments)
 
 ### 2. Kidney Function <a name=kidney></a>
 * SCr: 0.5 (stable)
