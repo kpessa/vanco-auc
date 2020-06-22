@@ -93,7 +93,7 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 </details>
  
 4. Entering the medical record number will allow patient to be identified during future admissions in the database
-5. Previously added patients can be identified and loaded in the “Load Patient Information” section
+5. 
 
 ![](Images/ptinfo0.png)
 
@@ -101,24 +101,21 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 
 #### Further Reading <a name="furtherreading"></a>
 
-<details>
-<summary>1. MRN used / needed to save patient information to database <a name=ptinfocomments></a></summary>
+<details><summary>1. MRN used / needed to save patient information to database <a name=ptinfocomments></a></summary>
  
 #### **`MRN`** used / needed to save patient information to database
 
-![](Images/ptinfo11.png)
+![](Images/ptinfo11.png)</details>
 
-</details>
+<details><summary>2. Previously added patients can be identified and loaded in the “Load Patient Information” section</summary>
 
-<details>
-<summary>2. No info on first page technically required to proceed </summary>
+![](Images/ptinfoload.png)</details>
 
-![](Images/ptinfo2.png)
+<details><summary>3. No info on first page technically required to proceed </summary>
 
-</details>
+![](Images/ptinfo2.png)</details>
 
-<details>
-<summary>3. Anthropomorphics: TBW/IBW and BMI </summary>
+<details><summary>4. Anthropomorphics: TBW/IBW and BMI </summary>
 
 #### ***Anthropomorphics***: `TBW/IBW` and `BMI`
 * If `Age`, `Height`, `Weight` and `Gender` are inputted, `TBW/IBW` and `BMI` are calculated and displayed in patient information ribbon.
@@ -127,7 +124,7 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 
 </details>
 
-<details><summary>4. Conversions: for Height and Weight</summary>
+<details><summary>5. Conversions: for Height and Weight</summary>
 
 #### Conversions: for `Height` and `Weight`
 
@@ -137,9 +134,7 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 
 - For **`Weight`**, can either input as ***`kgs`*** or ***`lbs`***
 
-![](Images/ptinfo4.png)
-
-</details>
+![](Images/ptinfo4.png)</details>
 
 ### 2. Kidney Function <a name=kidney></a>
 * SCr: 0.5 (stable)
