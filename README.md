@@ -42,8 +42,6 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 
 [&#8592; previous section](#workshop) | [&#9650; back to table of contents](#toc) | [next section &#8594;](#ex1)
 
-**[&#9650; <ins>back to table of contents</ins>](#toc)**
-
 --------------
 ### <p style="text-align:center">Patient Example 1: **"New Consult"** Summary<a name="ex1"></a></p>
 1. [Patient Information](#ptinfo)
@@ -62,9 +60,7 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 8. [Progress Note](#note)
 9. [Monitoring Form](#form)
 
-
-
-**[&#9650; <ins>back to table of contents</ins>](#toc)**
+[&#8592; previous section](#workshop) | [&#9650; back to table of contents](#toc) | [next section &#8594;](#ptinfo)
 
 --------------
 ### 1. Patient Information <a name=ptinfo></a>
@@ -84,7 +80,7 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 
 [&#8592; previous section](#ex1) | [&#9650; back to example summary](#ex1) | [next section &#8594;](#ptinfocomments)
 
-##### **Comments:** <a name=ptinfocomments></a>
+<details><summary>##### **Comments:** <a name=ptinfocomments></a></summary>
  
 ![](Images/ptinfo11.png)
 ![](Images/ptinfo2.png)
@@ -108,6 +104,9 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 
 **[&#9650; <ins>back to example summary</ins>](#ex1)**
 **[&#9650; <ins>back to table of contents</ins>](#toc)**
+
+</details>
+
 ### 2. Kidney Function <a name=kidney></a>
 * SCr: 0.5 (stable)
 * no concurrent nephrotoxic drugs
