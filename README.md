@@ -78,7 +78,7 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 ![](Images/ptinfo0.png)
 
 [&#9650; <ins>back to example summary</ins>](#ex1) 
-[&#9668; <ins>previous section</ins>](#ex1) [&#9658; <ins>next section</ins>](#ptinfocomments)
+[&#9668; previous section](#ex1) [&#9658; next section](#ptinfocomments)
 
 ##### **Comments:** <a name=ptinfocomments></a>
  
