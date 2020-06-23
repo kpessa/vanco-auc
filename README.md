@@ -148,6 +148,7 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 <details><summary>2. If patient is muscle wasted or cachectic, the SCr can be rounded by selecting “Yes”</summary>
 
 #### 2. If patient is muscle wasted or cachectic, the `SCr` can be rounded by selecting “Yes”
+
 ![](Images/kidneySCr.png)</details>
 
 <details><summary>3. If patient is obese (>120% IBW) the AdjBW can be used to calculate CrCl by selecting “Yes”</summary>
