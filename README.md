@@ -9,6 +9,8 @@
 
 > Most current powerpoint ppt: &#9658; <ins>**[Vancomycin Bulletins MD RN LAB.pptx](https://github.com/kpessa/vanco-auc/raw/master/Vancomycin%20Dosing%20Handout/Vancomycin%20Bulletins%20MD%20RN%20LAB.pptx)**</ins> &#9668;
 
+> Link to ASHP, IDSA, PIDS, and SIPD joint guidelines: &#9658; <ins>**[Vancomycin Monitoring Guidelines](https://academic.oup.com/ajhp/article/77/11/835/5810200)**</ins>&#9668;
+
 --------------
 # <p style="text-align:center">Table of Contents <a name="toc"></a></p>
 
@@ -179,9 +181,9 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 
 #### 1. Consider whether patient requires a loading dose and if so, what category they fall into, and select “Calculate Load” or “No Load”.  
 
-![](Images/ld_click.png)</details>
+![](Images/ld_click0.png)</details>
 
-•	Loading dose max will be hospital specific, but according new guidelines may go up to 3000 mg.
+•	Loading dose max  will be hospital specific, but according new guidelines may go up to 3000 mg.
 •	Calculator will estimate what time the loading dose will be given, adjust time based on expectations (consider time to dispense and potential delay from administering other antibiotics before vancomycin) 
 
 
