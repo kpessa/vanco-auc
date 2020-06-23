@@ -140,7 +140,7 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 
 <details><summary>1. Manually-enter CrCl or enter SCr</summary>
 
-1. Manually-enter CrCl or enter `SCr`
+#### 1. Manually-enter CrCl or enter `SCr`
 * If entering `SCr`, then press `Next` button
 
 ![](Images/kidney000.png)</details>
