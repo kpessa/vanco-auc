@@ -165,8 +165,21 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 
 [&#8592; previous section](#ptinfo) | [&#9650; back to example summary](#ex1) | [next section &#8594;](#ld)
 
-**[&#9650; <ins>back to table of contents</ins>](#toc)**
 ### 3. Loading Dose (LD) <a name=ld></a>
+
+> New IDSA Vancomycin Guidelines from March 2020 recommend giving a loading dose for critically ill patients, ICU patients, those that require dialysis or renal replacement therapy.  
+
+<details><summary>"Click to see image of guidelines</summary>
+
+![](Images/LoadingDoses.jpg)</details>
+
+##### Steps
+
+1. Consider whether patient requires a loading dose and if so, what category they fall into, and select “Calculate Load” or “No Load”.  
+•	Loading dose max will be hospital specific, but according new guidelines may go up to 3000 mg.
+•	Calculator will estimate what time the loading dose will be given, adjust time based on expectations (consider time to dispense and potential delay from administering other antibiotics before vancomycin) 
+
+
 **[&#9650; <ins>back to table of contents</ins>](#toc)**
 ### 4. Volume of Distribution (Vd) <a name=vd></a>
 **[&#9650; <ins>back to table of contents</ins>](#toc)**
