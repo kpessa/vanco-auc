@@ -127,19 +127,29 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 
 [&#8592; previous section](#ex1) | [&#9650; back to example summary](#ex1) | [next section &#8594;](#ptinfocomments)
 
+-------
+
 ### 2. Kidney Function <a name=kidney></a>
 * SCr: 0.5 (stable)
 * no concurrent nephrotoxic drugs
 * no amputations
 
+-------
+
 ##### Steps <a name=kidneysteps></a>
+
+<details><summary>1. Manually-enter CrCl or enter SCr</summary>
+
 1. Manually-enter CrCl or enter `SCr`
-	* If entering `SCr`, then press `Next` button
+* If entering `SCr`, then press `Next` button
+
+![](Images/kidney000.png)</details>
+	
 2. If patient is muscle wasted or cachectic, the `SCr` can be rounded by selecting “Yes”
 3. If patient is obese (>120% IBW) the `AdjBW` can be used to calculate CrCl by selecting “Yes”
 4. Select “Accept ### ml/min as CrCl” 
 
-![](Images/kidney000.png)
+
 
 **[&#9650; <ins>back to table of contents</ins>](#toc)**
 ### 3. Loading Dose (LD) <a name=ld></a>
