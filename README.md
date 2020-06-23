@@ -125,7 +125,7 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 
 ![](Images/ptinfo4.png)</details>
 
-[&#8592; previous section](#ex1) | [&#9650; back to example summary](#ex1) | [next section &#8594;](#ptinfocomments)
+[&#8592; previous section](#ex1) | [&#9650; back to example summary](#ex1) | [next section &#8594;](#kidney)
 
 -------
 
@@ -145,11 +145,24 @@ This vancomycin calculator uses a variety of published pharmacokinetic equations
 
 ![](Images/kidney000.png)</details>
 	
-2. If patient is muscle wasted or cachectic, the `SCr` can be rounded by selecting “Yes”
-3. If patient is obese (>120% IBW) the `AdjBW` can be used to calculate CrCl by selecting “Yes”
-4. Select “Accept ### ml/min as CrCl” 
+<details><summary>2. If patient is muscle wasted or cachectic, the SCr can be rounded by selecting “Yes”</summary>
 
+#### 2. If patient is muscle wasted or cachectic, the `SCr` can be rounded by selecting “Yes”
+![](Images/kidneySCr.png)</details>
 
+<details><summary>3. If patient is obese (>120% IBW) the AdjBW can be used to calculate CrCl by selecting “Yes”</summary>
+
+#### 3. If patient is obese (>120% IBW) the `AdjBW` can be used to calculate CrCl by selecting “Yes”
+
+![](Images/kidneyTBW_IBW.png)</details>
+
+<details><summary>4. Select “Accept ### ml/min as CrCl”</summary>
+
+#### 4. Select “Accept ### ml/min as CrCl” 
+
+![](Images/kidneyAccept.png)</details>
+
+[&#8592; previous section](#ptinfo) | [&#9650; back to example summary](#ex1) | [next section &#8594;](#ld)
 
 **[&#9650; <ins>back to table of contents</ins>](#toc)**
 ### 3. Loading Dose (LD) <a name=ld></a>
