@@ -1,4 +1,4 @@
-#6/23 Follow-up
+#6/24 Follow-up
 
 ##Tasks
 &#9745; Change trough to AUC in monitoring form
@@ -6,6 +6,7 @@
 &#9744; Add "Transfer to DMC Calculator" for `New Consult` userform **=/**
 
 ## Update summary
+**LINKS DON'T WORK IN PDF FORMAT =/**
 1. [Updated Monitoring Form](#monitoring)
 2. [Updated MDTable for **`New Consult`**](#mdtablenewconsult)
 	- [Added patient context bar to the top of `maintenance table` userform](#ptcontext)
