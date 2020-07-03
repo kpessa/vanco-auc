@@ -1,6 +1,6 @@
-#6/24 Follow-up
+# 6/24 Follow-up
 
-##Tasks
+## Tasks
 &#9745; Change trough to AUC in monitoring form
 &#9745; Denote maintenace dose in **`Post Levels`** maintenance dose table
 &#9744; Add "Transfer to DMC Calculator" for `New Consult` userform **=/**
