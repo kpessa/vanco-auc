@@ -1,4 +1,4 @@
-# 7/1 Follow-Up
+# <script>Date()</script> Follow-Up
 
 ## Next Steps
 
@@ -24,43 +24,28 @@ User Guide
 ---
 ## Completed
 
-`PatientList`
-
-&#x2611; Patient discharged/deceased
-
-- Added `Deceased` to option in patient statuses
-
-**Multiple**
- &#x2611; Admitted/Active - keyword for active patients.  
-
-- Decided on `Active` status because I felt like it made sense when using that status as `Active` when only selecting those values in dropdowns for `NewConsult` and `PostLevels`
-
-![](Images2/pd2.png)
-
-  &#x2611;Adding "Where" clause in SQL string to select only active patients in Load button
-
-* Added `where status = 'Active'` to SQL string in `cmbLoad` combobox dropdowns in `NewConsult` and `PostLevels`
-
-  ![](Images2/sqlstring.png)
 
 
+### Worked on `Workbook` events
 
-`PostLevels`
-&#x2611;   `PostLevels` page 3 - Guidance on half-life check 
+* Tried to work on `Workbook` events so that the pharmacist has a better user experience when using the calculator.
 
-#####  An example where levels drawn greater than one (1) half-life apart
+&#x2611; Rewrote and documented `Workbook_Open` event
 
-#####  <img src="Images2/half-life2.png" style="zoom: 67%;" />
+![](Images7/Jul-04 11_42_48.png)
 
-##### An example where levels were drawn too close together
+&#x2611; Suppressed `Save` notification when closing the workbook  
 
-#### <img src="Images2/half-life.png" style="zoom:67%;" />
+![](Images7/Jul-04 11_28_53.png)
 
-`uf_MDTable`
-&#x2611; Arrows on maintenance dose table allowing pharmacist to switch between population-based parameters and patient specific parameters.
+<blockquote> `Workbook_BeforeClose` and `Workbook_Deactivate` events </blockquote>
 
-![](Images2/switchbtn.png)
+&#x2611; Updated `Workbook_BeforeClose` and `Workbook_Deactivate` events.  When testing, there were times where errors occurred that I didn't feel should interrupt workflow of calculator.
 
-![](Images2/switchbtn2.png)
+![](Images7/Jul-04 10_24_53.png)
 
-![](Images2/switchbtn3.png)
+&#x2611; Updated `Workbook_Activate` and `Workbook_Deactivate` events
+
+- Just really wanted to restore default view settings when leaving the calculator or toggling to another excel file.  When coming back to the calculator, restore the view for the calculator depending on if the application is in maximized or normal setting.
+
+![](Images7/Jul-04 11_51_28.png)
