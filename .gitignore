@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Jekyll ignores
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
 # ignore temporary files
 ~$*
 
