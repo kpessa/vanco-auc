@@ -2,13 +2,13 @@
 ☑ Removed population AUC from calculator to prevent confusion in Progress Note.
 
 Branch point:
-![](Images8/continue.png)
+<img src="https://github.com/kpessa/vanco-auc/blob/master/_posts/Images8/continue.png?raw=true">
 
 1. **New Regimen**: What it looks like when a new regimen is selected.
-![](Images8/image000090.png)
+<img src="https://github.com/kpessa/vanco-auc/blob/master/_posts/Images8/image000090.png?raw=true">
 
 2. **Continuing Regimen**: What it looks like when cotinuing a regimen.
-![](Images8/image000091.png)
+<img src="https://github.com/kpessa/vanco-auc/blob/master/_posts/Images8/image000091.png?raw=true">
 
 > As always, I'm open to feedback on language used, style of what's defaulted!  
 
